@@ -62,4 +62,4 @@ rosrun final_assignment main_code.py
 ```bash
 rosrun rqt_graph rqt_graph
 ```
-
+![alt text](./rosgraph.png)
